@@ -11,7 +11,7 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   val = analogRead(analogPin);
-  delay(1000);
+  delay(2000);
   //Serial.println(val);
   float volatage = 5.0 * val / 1023;
   Serial.println(volatage);
