@@ -1,2 +1,2 @@
 # mesure_reality
-Denna labb gör att man kan mäta hur mycket spänning ett batteri har
+This lab allows you to measure how much voltage a battery has
